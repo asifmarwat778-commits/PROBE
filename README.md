@@ -3,7 +3,9 @@
 PROBE (Predictive Radical quantification via Oxidant Benchmarking and Estimation) Multi-Probe Quantification of Radical Speciation in Fe(III)- and Chlorine-Based Advanced Oxidation Processes
 ## Description
 Codes and datasets for the five-probe method to simultaneously determine the steady-state concentrations of multiple radicals (•OH, Cl•, Cl₂•⁻, ClO•, and Fe(IV)=O²⁺) in HOCl/Fe(III), UV₂₅₄/Fe(III), UV₂₅₄/HOCl, and UV₂₅₄/HOCl/Fe(III) systems, with DFT analysis, Kintecus kinetic validation, and GBR-based machine learning prediction (R² = 0.993, MAE = 0.015).
+
 ## Using PROBE
+
 The tool is available in the script app.py. It is intended to be run locally via Python. The user can select the target probe (1,4-DMOB, BA, CBZ, NB, or PMSO) and AOP system (HOCl/Fe(III), UV254/Fe(III), UV254/HOCl, or UV254/HOCl/Fe(III)), enter the operational parameters (reaction time, solution pH, HOCl and Fe(III) dose, UV intensity, and water-matrix ion concentrations), and the GUI will output the predicted probe degradation (Ct/C0) in real time based on the trained Gradient Boosting Regressor (GBR, R2 = 0.993), providing a rapid, solvent-free alternative to conventional chromatographic quantification within the validated pH 3-9 domain.
 
 ## Training Dataset
