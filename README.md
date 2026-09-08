@@ -23,7 +23,16 @@ The complete dataset of experimentally measured kobs values used to train all mo
 •	Ternary UV254/HOCl/Fe(III) yields diverse radical speciation peaking at pH 3.
 •	GBR machine learning predicts probe degradation (R2 = 0.993) via an interactive GUI.
 
-## Repository Structure
+## AI Use 
+Artificial intelligence models OpenAI ChatGPT and Kimi were used as a coding aid in the development of PROBE.
+
+## Acknowledgments
+We gratefully acknowledge the National Key Research and Development Program of China (2023YFC3207104, W.W.), the National Natural Science Foundation of China (No. 52321005), the Fundamental and Interdisciplinary Disciplines Breakthrough Plan of the Ministry of Education of China (JYB2025XDXM906), the Postdoctoral Fellowship Program and China Postdoctoral Science Foundation (BX20250474, 2025M784389), the Heilongjiang Graduate Excellence Funding Program (LJYXLZR2025-001),  and the National Engineering Research Center for Safe Disposal and Resources Recovery of Sludge (K2024A011).
+
+## Contact
+Aiwen Wang, Harbin Institute of Technology
+wangaiwen@hit.edu.cn 
+
 ## MIT License
 
 Copyright (c) 2026 Muhammad Asif, Aiwen Wang, Wei Wang
