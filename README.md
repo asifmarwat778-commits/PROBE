@@ -9,11 +9,10 @@ Codes and datasets for the five-probe method to simultaneously determine the ste
 
 ## Highlights
 
-- Simultaneous quantification of 5 radical species using a 5-probe array (1,4-DMOB, BA, CBZ, NB, PMSO)
-- Probe selectivity validated by DFT (condensed Fukui indices, ΔG‡, ΔG) at B3LYP/def2-SVP (SMD, water)
-- Kintecus V5.75 kinetic modeling cross-validation
-- Machine learning prediction of probe degradation (Ct/C0): GBR, SVR, RFR, HGBR, MLP, KNN
-- Leave-one-pH-out / leave-one-ion-out cross-validation for model boundary definition
-- Graphical user interface (GUI) for instantaneous, solvent-free Ct/C0 prediction
+•	Five-probe array quantifies •OH, Cl•, Cl2•⁻, ClO•, Fe(IV) in Fe(III)-chlorine mediated AOPs.
+•	DFT-validated probe selectivity via Fukui indices and activation energies.
+•	Kintecus modeling validates experimental steady-state radical concentrations.
+•	Ternary UV254/HOCl/Fe(III) yields diverse radical speciation peaking at pH 3.
+•	GBR machine learning predicts probe degradation (R2 = 0.993) via an interactive GUI.
 
 ## Repository Structure
