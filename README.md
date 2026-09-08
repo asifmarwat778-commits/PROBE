@@ -1,5 +1,7 @@
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/cfc31ee9-c5df-450c-a565-abc1ba2c7276" />
+
 ## PROBE
+
 PROBE (Predictive Radical quantification via Oxidant Benchmarking and Estimation) Multi-Probe Quantification of Radical Speciation in Fe(III)- and Chlorine-Based Advanced Oxidation Processes
 ## Description
 Codes and datasets for the five-probe method to simultaneously determine the steady-state concentrations of multiple radicals (•OH, Cl•, Cl₂•⁻, ClO•, and Fe(IV)=O²⁺) in HOCl/Fe(III), UV₂₅₄/Fe(III), UV₂₅₄/HOCl, and UV₂₅₄/HOCl/Fe(III) systems, with DFT analysis, Kintecus kinetic validation, and GBR-based machine learning prediction (R² = 0.993, MAE = 0.015).
